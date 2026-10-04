@@ -1,6 +1,6 @@
 #Primeira_pagina_Web_HTML5_CSS3
 
-##Html5, CSS.
+##Html5, CSS3
 
 ###DESCRIÇÃO###
 para rodar vc pode apenas fazer uma pasta no seu navegador e adicionar nele dois arquivos:
