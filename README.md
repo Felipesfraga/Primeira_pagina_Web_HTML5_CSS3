@@ -10,7 +10,7 @@ Nome: Felipe dos Santos Fraga
 
 [Linkedin](https://www.linkedin.com/in/felipesfraga/)
 
-[felipeddossantosfraga@gmail.com](mailto: felipeddossantosfraga@gmail.com)
+[felipeddossantosfraga@gmail.com](mailto:felipeddossantosfraga@gmail.com)
 
 '''html...'''
 
